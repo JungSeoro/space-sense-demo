@@ -1,0 +1,3 @@
+[submodule "space-sense"]
+	path = space-sense
+	url = git@github.com:JungSeoro/space-sense.git
