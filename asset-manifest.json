@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/space-sense-demo/static/css/main.a0efa6e6.css",
-    "main.js": "/space-sense-demo/static/js/main.760a29f2.js",
+    "main.js": "/space-sense-demo/static/js/main.0ecd1d3a.js",
     "static/js/453.e67d9638.chunk.js": "/space-sense-demo/static/js/453.e67d9638.chunk.js",
     "index.html": "/space-sense-demo/index.html",
     "main.a0efa6e6.css.map": "/space-sense-demo/static/css/main.a0efa6e6.css.map",
-    "main.760a29f2.js.map": "/space-sense-demo/static/js/main.760a29f2.js.map",
+    "main.0ecd1d3a.js.map": "/space-sense-demo/static/js/main.0ecd1d3a.js.map",
     "453.e67d9638.chunk.js.map": "/space-sense-demo/static/js/453.e67d9638.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a0efa6e6.css",
-    "static/js/main.760a29f2.js"
+    "static/js/main.0ecd1d3a.js"
   ]
 }
