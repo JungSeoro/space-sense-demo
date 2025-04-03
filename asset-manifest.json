@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/space-sense-demo/static/css/main.a0efa6e6.css",
-    "main.js": "/space-sense-demo/static/js/main.0ecd1d3a.js",
+    "main.css": "/space-sense-demo/static/css/main.cde2244d.css",
+    "main.js": "/space-sense-demo/static/js/main.c79e5a54.js",
     "static/js/453.e67d9638.chunk.js": "/space-sense-demo/static/js/453.e67d9638.chunk.js",
     "index.html": "/space-sense-demo/index.html",
-    "main.a0efa6e6.css.map": "/space-sense-demo/static/css/main.a0efa6e6.css.map",
-    "main.0ecd1d3a.js.map": "/space-sense-demo/static/js/main.0ecd1d3a.js.map",
+    "static/media/grain01.svg": "/space-sense-demo/static/media/grain01.da40404d9d3bf6094a26.svg",
+    "main.cde2244d.css.map": "/space-sense-demo/static/css/main.cde2244d.css.map",
+    "main.c79e5a54.js.map": "/space-sense-demo/static/js/main.c79e5a54.js.map",
     "453.e67d9638.chunk.js.map": "/space-sense-demo/static/js/453.e67d9638.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0efa6e6.css",
-    "static/js/main.0ecd1d3a.js"
+    "static/css/main.cde2244d.css",
+    "static/js/main.c79e5a54.js"
   ]
 }
