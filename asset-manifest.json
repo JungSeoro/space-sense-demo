@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/space-sense-demo/static/css/main.e28f411f.css",
-    "main.js": "/space-sense-demo/static/js/main.3ee49255.js",
+    "main.js": "/space-sense-demo/static/js/main.66f7870b.js",
     "static/js/453.e67d9638.chunk.js": "/space-sense-demo/static/js/453.e67d9638.chunk.js",
     "static/media/studio.glb": "/space-sense-demo/static/media/studio.5a755747f1465dd069b3.glb",
     "static/media/light.glb": "/space-sense-demo/static/media/light.58cf5d9c4cef35874aa7.glb",
@@ -10,11 +10,11 @@
     "index.html": "/space-sense-demo/index.html",
     "static/media/grain01.svg": "/space-sense-demo/static/media/grain01.da40404d9d3bf6094a26.svg",
     "main.e28f411f.css.map": "/space-sense-demo/static/css/main.e28f411f.css.map",
-    "main.3ee49255.js.map": "/space-sense-demo/static/js/main.3ee49255.js.map",
+    "main.66f7870b.js.map": "/space-sense-demo/static/js/main.66f7870b.js.map",
     "453.e67d9638.chunk.js.map": "/space-sense-demo/static/js/453.e67d9638.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e28f411f.css",
-    "static/js/main.3ee49255.js"
+    "static/js/main.66f7870b.js"
   ]
 }
